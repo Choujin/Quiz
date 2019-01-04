@@ -12,14 +12,15 @@
     
 <div id="page-wrap">
 
-<h1>Quiz for CodeGorilla</h1>
 
 <form action="grade.php" method="post" id="quiz">
 
     <ol>
     
         <li>
-        
+
+            <h1>Quiz for CodeGorilla</h1>
+            
             <h3>When did whe begin on our bootcamp...</h3>
             
             <div>
@@ -157,7 +158,7 @@
 </div>
 
 
-<div class="visitor-count">
+<div class="footer">
 
    <?php include "counter.php";  ?>
    </div>

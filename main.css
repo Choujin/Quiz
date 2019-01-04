@@ -1,40 +1,65 @@
-
-
 *					
-{ 
-   margin: 0; padding: 0; }
+   { 
+   
+   margin-top: 0; padding: 0; }
 body			
 	{ 
+   background: transparent;
+   background-image: url(codegorilla.jpg);
    font: 14px Georgia, serif; }
+   
 
-#page-wrap		   
- { 
-    width: 500px; margin: 0 auto; }
+   #page-wrap		   
+   { 
+     background: transparent;
+      width: 500px; margin: auto;  }
 
 h1                  
 { 
-   margin: 25px 0; font: 14px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
+   background: transparent;
+   margin: 5px; font: 14px Georgia, Serif; text-transform: uppercase; letter-spacing: 3px; }
 
 #quiz input {
+   background: transparent;
     vertical-align: middle;
 }
 
 #quiz ol {
+   background: transparent;
    margin: 0 0 10px 20px;
 }
 
 #quiz ol li {
+   background: transparent;
    margin: 0 0 20px 0;
 }
 
 #quiz ol li div {
+   color: black;
+   background: transparent;
    padding: 4px 0;
 }
 
 #quiz h3 {
+   background: transparent;
    font-size: 17px; margin: 0 0 1px 0; color: #666;
 }
 
 #results {
     font: 44px Georgia, Serif;
 }
+
+.footer{
+   background: transparent;
+      font-size: 14px;
+      position: fixed;
+      left: 0;
+      bottom: 0;
+      width: 100%;
+      
+      color: #ffffff;
+      text-align: center;
+    
+}
+
+
