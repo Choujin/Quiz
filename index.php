@@ -9,7 +9,9 @@
     <script src="main.js"></script>
 </head>
 <body>
-    
+
+<h1>Quiz for CodeGorilla</h1>
+
 <div id="page-wrap">
 
 
@@ -19,7 +21,7 @@
     
         <li>
 
-            <h1>Quiz for CodeGorilla</h1>
+            
             
             <h3>When did whe begin on our bootcamp...</h3>
             
